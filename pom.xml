@@ -22,7 +22,7 @@
 		<mysql.version>8.0.18</mysql.version>
 		<oracle.version>11.2.0.3</oracle.version>
 		<sqlserver.version>4.0</sqlserver.version>
-		<postgresql.version>42.2.6</postgresql.version>
+		<postgresql.version>42.2.25</postgresql.version>
 		<jsoup.version>1.12.1</jsoup.version>
 		<cron4j.version>2.2.5</cron4j.version>
 		<jfinalweixin.version>2.4</jfinalweixin.version>
